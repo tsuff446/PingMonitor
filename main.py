@@ -18,7 +18,7 @@ current_time = time.strftime("%H:%M:%S", time.localtime())
 print("Starting " + str(monitorTime) + "s Ping Test to " + targetServer + " at " + current_time)
 while time.time() - init_time < monitorTime:
     start = time.time()
-    result = cmd_ping.ping(targetServer, logStream)
+    result = cmd_ping.ping(targetServer, timeout, logStream)
     pingTime = (time.time() - start)*1000
     numPings += 1
     if not result:

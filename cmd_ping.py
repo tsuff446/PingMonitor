@@ -1,7 +1,7 @@
 import platform    # For getting the operating system name
 import subprocess  # For executing a shell command
 
-def ping(host, stream):
+def ping(host, timeout, stream):
     """
     Returns True if host (str) responds to a ping request.
     Remember that a host may not respond to a ping (ICMP) request even if the host name is valid.
@@ -11,6 +11,6 @@ def ping(host, stream):
     param = '-n' if platform.system().lower()=='windows' else '-c'
 
     # Building the command. Ex: "ping -c 1 google.com"
-    command = ['ping', param, '1', host]
+    command = ['ping', param, '1', '-w', str(timeout*1000), host]
 
     return subprocess.call(command, stdout=stream) == 0

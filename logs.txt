@@ -1,109 +1,5 @@
 
 Pinging 172.217.4.46 with 32 bytes of data:
-Reply from 172.217.4.46: bytes=32 time=5ms TTL=116
-
-Ping statistics for 172.217.4.46:
-    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 5ms, Maximum = 5ms, Average = 5ms
-
-Pinging 172.217.4.46 with 32 bytes of data:
-Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
-
-Ping statistics for 172.217.4.46:
-    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 4ms, Maximum = 4ms, Average = 4ms
-
-Pinging 172.217.4.46 with 32 bytes of data:
-Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
-
-Ping statistics for 172.217.4.46:
-    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 3ms, Maximum = 3ms, Average = 3ms
-
-Pinging 172.217.4.46 with 32 bytes of data:
-Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
-
-Ping statistics for 172.217.4.46:
-    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 4ms, Maximum = 4ms, Average = 4ms
-
-Pinging 172.217.4.46 with 32 bytes of data:
-Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
-
-Ping statistics for 172.217.4.46:
-    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 4ms, Maximum = 4ms, Average = 4ms
-
-Pinging 172.217.4.46 with 32 bytes of data:
-Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
-
-Ping statistics for 172.217.4.46:
-    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 3ms, Maximum = 3ms, Average = 3ms
-
-Pinging 172.217.4.46 with 32 bytes of data:
-Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
-
-Ping statistics for 172.217.4.46:
-    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 4ms, Maximum = 4ms, Average = 4ms
-
-Pinging 172.217.4.46 with 32 bytes of data:
-Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
-
-Ping statistics for 172.217.4.46:
-    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 3ms, Maximum = 3ms, Average = 3ms
-
-Pinging 172.217.4.46 with 32 bytes of data:
-Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
-
-Ping statistics for 172.217.4.46:
-    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 3ms, Maximum = 3ms, Average = 3ms
-
-Pinging 172.217.4.46 with 32 bytes of data:
-Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
-
-Ping statistics for 172.217.4.46:
-    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 4ms, Maximum = 4ms, Average = 4ms
-
-Pinging 172.217.4.46 with 32 bytes of data:
-Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
-
-Ping statistics for 172.217.4.46:
-    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 3ms, Maximum = 3ms, Average = 3ms
-
-Pinging 172.217.4.46 with 32 bytes of data:
-Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
-
-Ping statistics for 172.217.4.46:
-    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 4ms, Maximum = 4ms, Average = 4ms
-
-Pinging 172.217.4.46 with 32 bytes of data:
-Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
-
-Ping statistics for 172.217.4.46:
-    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
-Approximate round trip times in milli-seconds:
-    Minimum = 3ms, Maximum = 3ms, Average = 3ms
-
-Pinging 172.217.4.46 with 32 bytes of data:
 Reply from 172.217.4.46: bytes=32 time=6ms TTL=116
 
 Ping statistics for 172.217.4.46:
@@ -120,12 +16,156 @@ Approximate round trip times in milli-seconds:
     Minimum = 3ms, Maximum = 3ms, Average = 3ms
 
 Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=8ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 8ms, Maximum = 8ms, Average = 8ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
 Reply from 172.217.4.46: bytes=32 time=5ms TTL=116
 
 Ping statistics for 172.217.4.46:
     Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
     Minimum = 5ms, Maximum = 5ms, Average = 5ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=5ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 5ms, Average = 5ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
 
 Pinging 172.217.4.46 with 32 bytes of data:
 Reply from 172.217.4.46: bytes=32 time=7ms TTL=116
@@ -136,6 +176,398 @@ Approximate round trip times in milli-seconds:
     Minimum = 7ms, Maximum = 7ms, Average = 7ms
 
 Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=5ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 5ms, Average = 5ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=6ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 6ms, Maximum = 6ms, Average = 6ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=5ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 5ms, Average = 5ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=9ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 9ms, Maximum = 9ms, Average = 9ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=7ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 7ms, Maximum = 7ms, Average = 7ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=8ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 8ms, Maximum = 8ms, Average = 8ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
 Reply from 172.217.4.46: bytes=32 time=6ms TTL=116
 
 Ping statistics for 172.217.4.46:
@@ -184,12 +616,20 @@ Approximate round trip times in milli-seconds:
     Minimum = 3ms, Maximum = 3ms, Average = 3ms
 
 Pinging 172.217.4.46 with 32 bytes of data:
-Reply from 172.217.4.46: bytes=32 time=6ms TTL=116
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
 
 Ping statistics for 172.217.4.46:
     Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 6ms, Maximum = 6ms, Average = 6ms
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=7ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 7ms, Maximum = 7ms, Average = 7ms
 
 Pinging 172.217.4.46 with 32 bytes of data:
 Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
@@ -200,12 +640,108 @@ Approximate round trip times in milli-seconds:
     Minimum = 4ms, Maximum = 4ms, Average = 4ms
 
 Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
 Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
 
 Ping statistics for 172.217.4.46:
     Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
     Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=11ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 11ms, Maximum = 11ms, Average = 11ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=5ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 5ms, Average = 5ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=8ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 8ms, Maximum = 8ms, Average = 8ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
 
 Pinging 172.217.4.46 with 32 bytes of data:
 Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
@@ -280,12 +816,532 @@ Approximate round trip times in milli-seconds:
     Minimum = 3ms, Maximum = 3ms, Average = 3ms
 
 Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=6ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 6ms, Maximum = 6ms, Average = 6ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
 Reply from 172.217.4.46: bytes=32 time=5ms TTL=116
 
 Ping statistics for 172.217.4.46:
     Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
     Minimum = 5ms, Maximum = 5ms, Average = 5ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=5ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 5ms, Average = 5ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=5ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 5ms, Average = 5ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=6ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 6ms, Maximum = 6ms, Average = 6ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=5ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 5ms, Average = 5ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=9ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 9ms, Maximum = 9ms, Average = 9ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=15ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 15ms, Maximum = 15ms, Average = 15ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=5ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 5ms, Average = 5ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=5ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 5ms, Average = 5ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=6ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 6ms, Maximum = 6ms, Average = 6ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=5ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 5ms, Average = 5ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=6ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 6ms, Maximum = 6ms, Average = 6ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=5ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 5ms, Average = 5ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=5ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 5ms, Average = 5ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=5ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 5ms, Average = 5ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=5ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 5ms, Average = 5ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=8ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 8ms, Maximum = 8ms, Average = 8ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=6ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 6ms, Maximum = 6ms, Average = 6ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=8ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 8ms, Maximum = 8ms, Average = 8ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
 
 Pinging 172.217.4.46 with 32 bytes of data:
 Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
@@ -336,12 +1392,348 @@ Approximate round trip times in milli-seconds:
     Minimum = 3ms, Maximum = 3ms, Average = 3ms
 
 Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
 Reply from 172.217.4.46: bytes=32 time=5ms TTL=116
 
 Ping statistics for 172.217.4.46:
     Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
     Minimum = 5ms, Maximum = 5ms, Average = 5ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=5ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 5ms, Average = 5ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=7ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 7ms, Maximum = 7ms, Average = 7ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=6ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 6ms, Maximum = 6ms, Average = 6ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=6ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 6ms, Maximum = 6ms, Average = 6ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=5ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 5ms, Maximum = 5ms, Average = 5ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=7ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 7ms, Maximum = 7ms, Average = 7ms
 
 Pinging 172.217.4.46 with 32 bytes of data:
 Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
@@ -384,17 +1776,59 @@ Approximate round trip times in milli-seconds:
     Minimum = 3ms, Maximum = 3ms, Average = 3ms
 
 Pinging 172.217.4.46 with 32 bytes of data:
-Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+Reply from 172.217.4.46: bytes=32 time=12ms TTL=116
 
 Ping statistics for 172.217.4.46:
     Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+    Minimum = 12ms, Maximum = 12ms, Average = 12ms
 
 Pinging 172.217.4.46 with 32 bytes of data:
-Reply from 172.217.4.46: bytes=32 time=3ms TTL=116
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
 
 Ping statistics for 172.217.4.46:
     Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
 Approximate round trip times in milli-seconds:
-    Minimum = 3ms, Maximum = 3ms, Average = 3ms
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=8ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 8ms, Maximum = 8ms, Average = 8ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
+Reply from 172.217.4.46: bytes=32 time=4ms TTL=116
+
+Ping statistics for 172.217.4.46:
+    Packets: Sent = 1, Received = 1, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 4ms, Maximum = 4ms, Average = 4ms
+
+Pinging 172.217.4.46 with 32 bytes of data:
