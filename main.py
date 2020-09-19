@@ -2,11 +2,12 @@ import ping3
 import time
 
 # in seconds how long to monitor network
-monitorTime = 20
+monitorTime = 60
 targetServer = '8.8.8.8'
+#how high ping has to spike to count as a spike
 spikeThreshold = 300
 #delay between pings (s)
-delay = 1./10.
+delay = 1.
 
 numPings = 0
 spikeCount = 0
