@@ -19,12 +19,12 @@ print("Starting " + str(monitorTime) + "s Ping Test to " + targetServer + " at "
 while time.time() - init_time < monitorTime:
     start = time.time()
     result = cmd_ping.ping(targetServer, logStream)
-    pingTime = time.time() - start
+    pingTime = (time.time() - start)*1000
     numPings += 1
     if not result:
         spikeCount += 1
         print("Request Timed out (>" + str(timeout) + "s)" + " at " + time.strftime("%H:%M:%S", time.localtime()))
-    elif pingTime*1000 > spikeThreshold:
+    elif pingTime > spikeThreshold:
         spikeCount += 1
         print("Ping Spike of", pingTime, "at " + time.strftime("%H:%M:%S", time.localtime()))
     time.sleep(delay)
