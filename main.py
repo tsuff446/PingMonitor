@@ -24,7 +24,7 @@ while time.time() - init_time < monitorTime:
     if not result:
         spikeCount += 1
         print("Request Timed out (>" + str(timeout) + "s)" + " at " + time.strftime("%H:%M:%S", time.localtime()))
-    elif pingTime > spikeThreshold:
+    elif pingTime*1000 > spikeThreshold:
         spikeCount += 1
         print("Ping Spike of", pingTime, "at " + time.strftime("%H:%M:%S", time.localtime()))
     time.sleep(delay)
