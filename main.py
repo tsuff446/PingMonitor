@@ -1,12 +1,12 @@
 import ping3
 import time
-import datetime
 
 # in seconds how long to monitor network
-monitorTime = 60
+monitorTime = 20
 targetServer = '8.8.8.8'
-#delay between pings
-delay = 1./60.
+spikeThreshold = 300
+#delay between pings (s)
+delay = 1./10.
 
 numPings = 0
 spikeCount = 0
@@ -16,9 +16,12 @@ print("Starting " + str(monitorTime) + "s Ping Test to " + targetServer + " at "
 while time.time() - init_time < monitorTime:
     pingTime = ping3.ping(targetServer, unit='ms')
     numPings += 1
-    if not pingTime or pingTime > 300:
+    if not pingTime:
         spikeCount += 1
-        print("Ping Spike at " + time.strftime("%H:%M:%S", time.localtime()))
+        print("Request Timed out at " + time.strftime("%H:%M:%S", time.localtime()))
+    elif pingTime > spikeThreshold:
+        spikeCount += 1
+        print("Ping Spike of", pingTime, "at " + time.strftime("%H:%M:%S", time.localtime()))
     time.sleep(delay)
 print("RESULTS:")
 print(spikeCount, "Ping Spikes in", monitorTime, "seconds")
