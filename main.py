@@ -22,4 +22,3 @@ while time.time() - init_time < monitorTime:
     time.sleep(delay)
 print("RESULTS:")
 print(spikeCount, "Ping Spikes in", monitorTime, "seconds")
-print("That's (" + str(spikeCount) + "/" + str(numPings) + ")")
